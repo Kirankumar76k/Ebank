@@ -1,0 +1,33 @@
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #152850;
+}
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  background-color: white;
+}
+.login-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e0eefe;
+  border-radius: 20px;
+}
+.login-form-container {
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
